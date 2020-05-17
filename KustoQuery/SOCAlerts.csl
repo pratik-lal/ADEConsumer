@@ -1,0 +1,1 @@
+tablename | where ingestion_time() >= ago(1h) and somefield != 0
