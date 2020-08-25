@@ -2,7 +2,7 @@
 Query events from Azure Data Explorer (ADE, Kusto) in batch
 
 ## Application Components
-> This application is under development. Clone it at your own risk.
+> NOTE: This application is under development. Clone it at your own risk.
 
 - **main.py**: main program
 - **AlertConsumer.py**: Logic to consume events from Azure Data Explorer
